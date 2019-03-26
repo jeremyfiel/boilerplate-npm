@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "jeremy fiel",
+	"description": "A project that does something awesome!",
+	"keywords": ["100daysofcode", "javascript", "codenewbie", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.2",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
